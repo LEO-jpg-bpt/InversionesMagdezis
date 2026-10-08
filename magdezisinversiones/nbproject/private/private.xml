@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/magdezisinversiones/Magdezisinversiones.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/config/DataBaseConenction.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/config/Credentials.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/Main.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/controller/MagdezisController.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/repository/MagdezisRepository.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/security/BCrypt.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/service/MagdezisService.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/model/Usuario.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/magdezisinversiones/src/main/java/com/magdezis/loginmagdezis/util/SceneManager.java</file>
+        </group>
+    </open-files>
+</project-private>
